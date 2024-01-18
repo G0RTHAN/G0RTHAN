@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @G0RTHAN
+- 👋 Heyo, I'm Nicolas C.
 - 👀 I’m interested in somehow integrating my art into game development.
 - 🌱 I’m currently learning how to code on GitHub.
 - 💞️ I’m looking to collaborate on anything!
